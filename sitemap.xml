@@ -3,7 +3,12 @@
 
     <sitemap>
         <loc>https://ZeoRexDevs.github.io/testing_hexo/post-sitemap.xml</loc>
-        <lastmod>2018-07-22T22:05:16.346Z</lastmod>
+        <lastmod>2018-07-22T22:59:27.303Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://ZeoRexDevs.github.io/testing_hexo/category-sitemap.xml</loc>
+        <lastmod>2018-07-22T22:59:27.303Z</lastmod>
     </sitemap>
 
 </sitemapindex>
